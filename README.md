@@ -4,7 +4,7 @@ A simple Tic Tac Toe game for two players, built with React and TypeScript.
 
 ## Live Demo
 
-You can play the game directly online at [Vercel Deployment](https://ta-te-ti-liart.vercel.app/). No installation required!
+You can play the game directly online at <a href="https://ta-te-ti-liart.vercel.app/" target="_blank">Vercel Deployment</a>. No installation required!
 
 ## Features
 
