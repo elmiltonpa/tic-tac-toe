@@ -67,8 +67,12 @@ const App: React.FC = () => {
           Reset Score
         </button>
 
-        <footer className="mt-12 text-gray-300 text-xs font-mono">
-          Created by Milton Ibarra
+        <footer className="mt-12 text-gray-300 text-xs font-mono flex gap-2 items-center">
+          <span>Created by Milton Ibarra</span>
+          <span>|</span>
+          <a href="https://github.com/elmiltonpa" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors">GitHub</a>
+          <span>|</span>
+          <a href="https://github.com/elmiltonpa/tic-tac-toe" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors">Source Code</a>
         </footer>
 
         <div aria-live="polite" className="sr-only">
