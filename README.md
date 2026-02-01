@@ -2,10 +2,9 @@
 
 A simple Tic Tac Toe game for two players, built with React and TypeScript.
 
-## How to run
+## Live Demo
 
-1. Install dependencies: `pnpm install`
-2. Run the development server: `pnpm run dev`
+You can play the game directly online at [Vercel Deployment](ta-te-ti-liart.vercel.app/). No installation required!
 
 ## Features
 
