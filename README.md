@@ -15,4 +15,9 @@ You can play the game directly online at <a href="https://ta-te-ti-liart.vercel.
 - Buttons to reset the game or scores.
 - Responsive and accessible design.
 
+## How to Run It Locally
+
+1. Install dependencies: `pnpm install`
+2. Run the dev server: `pnpm run dev`
+
 Created by Milton Ibarra.
